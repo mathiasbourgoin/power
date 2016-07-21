@@ -13,4 +13,3 @@ Requirements
 ------------
 
 - Boost 1.60 with boost_system library
-- 
